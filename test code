@@ -1,0 +1,11 @@
+…
+import org.junit.Test;
+…
+
+public class TestLeftTest {
+
+  @Test
+  public void SampleTest() throws Exception{
+
+  }
+}
